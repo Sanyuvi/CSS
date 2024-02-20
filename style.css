@@ -1,0 +1,43 @@
+/* body{
+  font-size: 1.75rem;
+}
+
+.block{
+    width: 30vw;
+    color: azure;
+    background-color: rgb(219, 118, 118);
+    height: 30vh;
+    padding: 1rem;
+}
+.left{
+    float: left;
+    margin-right: 10px;
+}
+section{
+    background-color: aquamarine;
+    border: 2px solid #333;
+    padding: 1rem;
+    display: flow-root;
+} */
+/* 
+body{
+    font-size: 1.5rem;
+}
+
+.Column{
+    columns: 4 250px;
+    column-rule: 3px solid #333;
+    column-gap: 3rem;
+}
+.Column p{
+    margin-top: 0;
+}
+
+.Column h2 {
+    background-color: blue;
+    margin: 0;
+    color: azure;
+    padding: 2px;
+    break-inside: avoid;
+    
+} */
